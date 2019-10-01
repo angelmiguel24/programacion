@@ -1,0 +1,19 @@
+//* codigo de la coladera 
+(a)crear un arreglo con todos los elementos inicializados a 1 (verdadero). Los elementos del arreglo que 
+tenga subíndices primeros permanecerán en 1. los demas elementos del arreglo en algún momento se establesca a cero
+(b)
+*//
+using namepace std;
+#include<iostream>
+main()
+{
+  int v[1000];
+  llenar(v,1000);
+}
+void llenar(intv[], int n;)
+{
+  for(int i=0; i<n; i++)
+  {
+    
+  }
+}
